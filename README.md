@@ -5,7 +5,11 @@
 {Ping Pong is a group word game for children to teach them about division.[1] Players take turns to count incrementally, replacing any number divisible by three with the word "ping", and any number divisible by five with the word "pong".Lastly,any number divisible by both 3 and 5 is replaced with 'pingpong'}
 ## Setup/Installation Requirements
 *Go to the internet
+<<<<<<< HEAD:README.md
 
+=======
+*click on the following link https://jimmimuriuki.github.io/Ping-Pong/ to access the game.
+>>>>>>> c7550a8940e075a5d7bc8dc89bee27e34d7e22c9:READMEmd
 *The link will make you navigate to where the project is.While playing the game enter a number of your choice and see what happens.
 
 {Atom installation required.Git installation required.Beautify installation on atom is also recommended for indentation purposes.}
