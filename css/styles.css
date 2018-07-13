@@ -1,19 +1,19 @@
 .jumbotron{
-  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy-hEtL_jVQY3rmM2VZBK1Y1wSN-g24NX2oD27nLSet6PU_Z36);
-}
-#cont1{
-  background-color: grey;
+  background-image: url(https://cdn.dribbble.com/users/1094306/screenshots/3080714/gif-ping-pong.gif);
+  height: 380px;
+  background-size: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+
 }
 .h1{
   text-align: center;
   color: white;
+
 }
 p{
   font-size: 30px;
 }
 .phead{
   color: maroon;
-}
-#col1{
-  background-color: green;
 }
