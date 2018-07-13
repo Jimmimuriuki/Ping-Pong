@@ -1,19 +1,35 @@
 .jumbotron{
   background-image: url(https://cdn.dribbble.com/users/1094306/screenshots/3080714/gif-ping-pong.gif);
   height: 380px;
+  width: 1000px;
   background-size: 100%;
   background-position: center;
   background-repeat: no-repeat;
-
+  margin-left: 10%;
 }
 .h1{
   text-align: center;
   color: white;
-
 }
 p{
-  font-size: 30px;
+  font-size: 20px;
 }
 .phead{
   color: maroon;
+}
+.ol{
+  font-size: 20px;
+  color: maroon;
+  font-style: oblique;
+}
+#cont1{
+background-color: grey;
+margin-top: 0%;
+}
+#col1{
+  background-color: #124465;
+}
+body{
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM4UutX42sJ9bmIe_inilcBiMGTQZvlpKz2DDId5aYxdGZdlfN3A);
+  
 }
